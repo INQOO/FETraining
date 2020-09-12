@@ -8,15 +8,5 @@ idealna kontrola nad stroną
 oszczędność pracy
 przejrzysty HTML
 stablina obsługa w przeglądarkach
-DODAWANIE STYLÓW DO DOKUMENTU
-ZEWNĘTRZNY PLIK CSS
-<head>
-    <link href="mystyle.css" rel="stylesheet" type="text/css">
-</head>
-body {
-    background-color: lightblue;
-}
-h1 {
-    color: red;
-    margin-left: 20px;
+
 }
