@@ -1,0 +1,6 @@
+ĆWICZENIE 3
+nadaj odpowiednie klasy oraz id w formularzu oraz na stronie przepisu stworzonych w poprzednim ćwiczeniu
+ustaw globalną czcionkę dla całego dokumentu, spraw by nagłówki używały innej czcionki
+dodaj marginesy dla głównej kolumny tekstu
+ustaw tło dokumentu
+ostyluj pozostałe elementy według swojego uznania
