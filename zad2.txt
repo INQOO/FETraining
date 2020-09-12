@@ -1,0 +1,22 @@
+ĆWICZENIE 2
+zmień tagi w stworzonym w pierwszym ćwiczeniu przepisie na semantycznie poprawne
+dodaj footer oraz header
+stworz nowa strone - 'addRecepture.html' z odpowiednim formularzem pozwalajacym na dodanie przepisu
+fomularz powinien zawierać pola: email autora, data dodania, lista skladników, kroki przygotowania, opis, zdjęcie potrawy
+CSS - CASCADE STYLE SHEET
+idealna kontrola nad stroną
+oszczędność pracy
+przejrzysty HTML
+stablina obsługa w przeglądarkach
+DODAWANIE STYLÓW DO DOKUMENTU
+ZEWNĘTRZNY PLIK CSS
+<head>
+    <link href="mystyle.css" rel="stylesheet" type="text/css">
+</head>
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: red;
+    margin-left: 20px;
+}
