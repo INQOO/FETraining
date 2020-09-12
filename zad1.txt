@@ -1,0 +1,19 @@
+ĆWICZENIE 1 - KSIAZKA KUCHARSKA - PRZEPIS
+stwórz plik cookingBook.html i dodaj link do niego w głównym dokumencie
+dodaj odpowiednie metadane - nazwe przepisu oraz tekst który wyświetli się w google
+używając listy dodaj liste składników
+dodaj opis potrawy oraz zdjęcie
+dodaj kroki potrzebne by ja przygotować
+SEMANTYKA HTML
+main
+section
+article
+nav
+header
+aside
+footer
+ATRYBUTY TAGÓW HTML
+id
+class
+i wiele więcej specyficznych dla wybranych tagów
+
