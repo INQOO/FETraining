@@ -1,6 +1,6 @@
 stwórz prototyp dla samochodu
-niech posiada pola: marka, kolor, cena oraz funkcje jedz
+niech posiada pola: marka, kolor, cena oraz funkcje jedz która zwróci informacje o modelu oraz marce samochodu którym jedziemy
 stwórz 3 obiekty bazujące na samochodzie: mercedes, bmw i audi
-dodaj im za pomocą prototypownia model, przebieg, kraj pochodzenia oraz funkcje jedź która zwróci informacje o modelu oraz marce samochodu którym jedziemy
+dodaj im za pomocą prototypownia model, przebieg, kraj pochodzenia oraz 
 Niech w wypadku BMW funkcja valueOf zwraca 'BMW' zamiast [object Object]
 przetestuj samochody

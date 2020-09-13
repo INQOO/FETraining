@@ -1,0 +1,7 @@
+Stwórz klasę vehicle oraz dziedziczące po niej car, train, airplane
+
+Niech klasa vehicle posiada część wspólną natomiast w każdej klasie dziedziczącej niech będą jakieś specyficzne dla niej właściwości
+
+W klasie vehicle powinna znajdować się funkcja openWindow która w wypadku train i car powinna wyświetlić informacje window is open a w wypadku samolotu you cannot open window in airplane
+
+

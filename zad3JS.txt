@@ -1,4 +1,5 @@
 Funkcje
+
 Stwórz funkcje odliczająca od wybranej liczby do 0 za pomocą rekurencji
 spraw by funkcja wyświetlała tylko liczby podzielne przez 3 i przez 5
 
