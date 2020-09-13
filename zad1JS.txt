@@ -1,0 +1,12 @@
+Tworzenie obiektów
+Stwórz obiekt: cat
+Nadaj mu właściwości imię, wiek, płeć
+stwórz funkcje która sprawi że powie 'meow'
+
+Stwórz konstruktor Person na bazie którego będziesz mógł tworzyć obiekty osoby
+Niech posiada imię, nazwisko, płeć, adres email, date urodzenia, oraz funkcje przedstaw zwracająca imię i nazwisko danej osoby
+
+Stwórz fabrykę obiektów Recepture która będzie tworzyć przepisy
+Niech każda receptura posiada pola: name, ingredientsList, preparationStep, description, creator -> gdzie creator to powinien być obiekt typu Person 
+
+Stwórz 4 obiekty wykorzystując stworzoną fabrykę tak by miały inna nazwę oraz innego twórce
