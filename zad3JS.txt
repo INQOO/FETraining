@@ -1,0 +1,7 @@
+Funkcje
+Stwórz funkcje odliczająca od wybranej liczby do 0 za pomocą rekurencji
+spraw by funkcja wyświetlała tylko liczby podzielne przez 3 i przez 5
+
+Dla ambitnych: 
+
+Stwórz funkcje licząca n wyraz ciągu Fibonacciego -> ciąg Fibonacciego to ciąg w którym każdy wyraz jest sumą 2 poprzednich  np 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
