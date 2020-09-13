@@ -1,0 +1,9 @@
+Instrukcje warunkowe
+1.
+Stwórz algorytm który sprawdza pełnoletniość stworzonej w ćwiczeniu 1 osoby
+w wypadku gdy wiek > 18 wyświetla 'możesz wejść'
+w przeciwnym w wypadku wyświetla 'wstęp wzbroniony'
+
+2.
+Stwórz algorytm typu switch case który zapyta za pomocą funkcji prompt jakiej receptury autora chcesz sprawdzić.
+Dla znanych receptur zwróci jej twórce dla nieznanej napisze 'nie znam takiego przepisu'
