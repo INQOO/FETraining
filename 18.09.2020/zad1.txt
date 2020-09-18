@@ -1,0 +1,7 @@
+1 Stwórz tablicę receptures zawierającą przepisy do książki kucharskiej ważne by przepisy miały datę dodania.
+2 Niech zawiera 3 przepisy obiadowe, 2 przepisy na śniadania i 2 na kolacje w dokładnie tej kolejności
+3 niech każdy przepis ma inna liczbę kroków przygotowania i minimum  2 składniki (jeśli chcesz może być to loremipsum)
+4 sprawdź długość tablicy
+5 dodaj na końcu tablicy przepis na drinka
+6 spraw by oba przepisy na śniadania znalazły się jako 2 pierwsze elementy tablicy
+7 stwórz funkcje która usuwa pierwszy element o zadanej wartości name np pierwszy element o treści posiadający jako name: jajecznica 
