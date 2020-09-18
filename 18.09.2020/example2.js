@@ -1,29 +1,29 @@
-const tab = [];
-console.log(tab);
-//tab = [1,2,3,4,5];
-tab.push('elem testowy');
-tab.push('x1')
-tab.push('x2')
-tab.push('x3')
-tab.push('x4')
-tab.push('x5')
-tab.push('x6')
-tab.pop();
-console.log(tab)
-console.log(tab.length)
-
-console.log(tab[0])
-;
-tab.splice(2, 1).splice(4, 1);
-console.log(tab);
-tab.shift();
-tab.unshift('pierwszy')
-console.log(tab);
-console.log(tab.indexOf('x3'))
-console.log(tab.sort());
-tab.push('x6')
-const tab2 = tab.slice();
-console.log(tab2)
+// const tab = [];
+// console.log(tab);
+// //tab = [1,2,3,4,5];
+// tab.push('elem testowy');
+// tab.push('x1')
+// tab.push('x2')
+// tab.push('x3')
+// tab.push('x4')
+// tab.push('x5')
+// tab.push('x6')
+// tab.pop();
+// console.log(tab)
+// console.log(tab.length)
+//
+// console.log(tab[0])
+// ;
+// tab.splice(2, 1).splice(4, 1);
+// console.log(tab);
+// tab.shift();
+// tab.unshift('pierwszy')
+// console.log(tab);
+// console.log(tab.indexOf('x3'))
+// console.log(tab.sort());
+// tab.push('x6')
+// const tab2 = tab.slice();
+// console.log(tab2)
 
 class Dish {
   constructor(name, prepStep, ingredients, creationDate, desc, type) {
@@ -115,4 +115,34 @@ console.log(receptures);
 //   return tab.splice(index,1);
 // }
 
+
+
+
+let someArray = [];
+// dodajemy za pomoca petli for elementy do naszej tablicy -> zauważmy ze następuje mutacja
+for (let i = 0; i < 19; i++) {
+  console.log(i);
+  someArray.push(i);
+}
+console.log(someArray)
+
+let x = 10;
+// standardowa petla while - wykonuje sie dopoki x jest wieksze od 0
+while (x > 0) {
+  x--;
+  console.log(x);
+}
+someArray.forEach((elem, index )=> {
+  someArray[index] = elem*elem;
+  //console.log(elem);
+});
+console.log(someArray)
+
+//inny sposob na iteracje po wszystkich elementach tablicy
+for (let recepture of receptures) {
+
+  for (let prop in recepture){
+    console.log(recepture[prop]);
+  }
+}
 
