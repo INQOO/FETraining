@@ -1,0 +1,7 @@
+1. stwórz funkcję która jako argument przyjmie dowolnego stringa i stworzy tablicę zawierającą co drugą literę tego stringa 
+
+2. zakładając ze każdy element tablicy to liczba stwórz funkcje która jako argument przyjmuje tablice i zwraca sumę wszystkich jej elementów. Zignoruj elementy tablicy które nie są liczbami i dodatkowo wyświetl komunikat ze tablica powinna przyjmować tylko liczby.
+
+3. stwórz funkcje która przyjmuje tablice i zwraca najdłuższego stringa jaki się w niej znalazł. Pamiętaj, że w tablicy mogą się znaleźć nie tylko stringi. Jeśli w tablicy będzie obiekt niech algorytm sprawdzi czy pola tego obiektu są stringami i uwzględni je w obliczeniach
+
+
