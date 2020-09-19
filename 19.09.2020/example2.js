@@ -222,18 +222,25 @@ console.log(receptures);
 //
 // console.log(longestString(['sdfsdf','xxxxxxxxxxx','sfdsf',{name:'xxxx',desc:'To najdluzszy string effs sdfsdfsd fsddfdsf sdfsdfsdf sdfsd'}]))
 
-
+function popupwindow(url, title, w, h) {
+  const left = (screen.width/2)-(w/2);
+  const top = (screen.height/2)-(h/2);
+  return window.open('', title, 'toolbar=no,' +
+    ' location=no, directories=no, status=no, menubar=no,' +
+    ' scrollbars=no, resizable=no, copyhistory=no,' +
+    ' width='+w+', height='+h+', top='+top+', left='+left);
+}
 
 document.addEventListener("DOMContentLoaded", () => {
  console.log(document.body)
   console.log(window.screen)
-  let newWin = window.open("about:blank", "hello",
-    "width=200,height=200");
-  newWin.document.write("Hello, world!");
-
-  let params = (new URL(newWin.document.location)).searchParams;
-  let name = params.get("name");
-  console.log(name);
+  // let newWin = window.open("about:blank", "hello",
+  //   "width=200,height=200");
+  // newWin.document.write("Hello, world!");
+popupwindow('about:blank','x',222,222)
+  // let params = (new URL(newWin.document.location)).searchParams;
+  // let name = params.get("name");
+  // console.log(name);
 
  // localStorage.setItem('name',name);
 console.log(localStorage.getItem('name'))
