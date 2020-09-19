@@ -232,28 +232,49 @@ function popupwindow(url, title, w, h) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
- console.log(document.body)
-  console.log(window.screen)
-  // let newWin = window.open("about:blank", "hello",
-  //   "width=200,height=200");
-  // newWin.document.write("Hello, world!");
-popupwindow('about:blank','x',222,222)
-  // let params = (new URL(newWin.document.location)).searchParams;
-  // let name = params.get("name");
-  // console.log(name);
+//  console.log(document.body)
+//   console.log(window.screen)
+//   // let newWin = window.open("about:blank", "hello",
+//   //   "width=200,height=200");
+//   // newWin.document.write("Hello, world!");
+// popupwindow('about:blank','x',222,222)
+//   // let params = (new URL(newWin.document.location)).searchParams;
+//   // let name = params.get("name");
+//   // console.log(name);
+//
+//  // localStorage.setItem('name',name);
+// console.log(localStorage.getItem('name'))
+// // localStorage.removeItem('name')
+// //   localStorage.clear();
+//
+// let counter = localStorage.getItem('counter');
+// if(counter){
+//   localStorage.setItem('counter',+counter+1);
+// }else{
+//   localStorage.setItem('counter', 1);
+// }
+// console.log('jestes na tej stronie po raz ', localStorage.getItem('counter'))
 
- // localStorage.setItem('name',name);
-console.log(localStorage.getItem('name'))
-// localStorage.removeItem('name')
-//   localStorage.clear();
 
-let counter = localStorage.getItem('counter');
-if(counter){
-  localStorage.setItem('counter',+counter+1);
-}else{
-  localStorage.setItem('counter', 1);
-}
-console.log('jestes na tej stronie po raz ', localStorage.getItem('counter'))
+const list = document.querySelector('.testList')
+console.log(list);
+  const newLi = document.createElement('li');
+  newLi.setAttribute('class', 'test');
+  const newContent = document.createTextNode("some text to insert");
+  newLi.appendChild(newContent);
+  document.querySelector('.testList').insertBefore(newLi, null);
+  console.log(document.querySelectorAll('.test'));
+  const addLiElement = function (text, parentElement) {
+    const newContent = document.createTextNode(text);
+    const newLi = document.createElement('li');
+    newLi.appendChild(newContent);
+    parentElement.insertBefore(newLi, null);
+  }
+
+  addLiElement('new test 1', document.querySelector('.testList'));
+  addLiElement('new test 2', document.querySelector('.testList'));
+  addLiElement('new test 3', document.querySelector('.testList'));
+
 });
 
 

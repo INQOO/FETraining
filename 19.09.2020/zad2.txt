@@ -1,0 +1,2 @@
+1. Stwórz stronę generującą listą przepisów na bazie tablicy z przepisami niech każdy przepis w liscie będzie linkiem do strony z przepisem wysylajacy jako query parameter id przepisu w lisce
+2.Przebuduj stronę przepisu tak by wyświetlał przepis z tablicy przepisów na bazie id w url
