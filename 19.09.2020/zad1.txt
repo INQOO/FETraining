@@ -1,0 +1,4 @@
+Stwórz funkcje która sprawdza czy w localstorage jest zmienna licznik odwiedzin, jeśli nie utwórz ją i daj jej wartość 1 oraz wyświetli tekst witaj po raz 1 pierwszy na naszej stronie.
+W wypadku gdy zmienna już się znajduje w localstorage wyświetl tekst witaj po raz x na naszej stronie oraz zinkrementuj zmienna.
+Teksty wyświetl w nowym oknie wypozycjonowanym na środku ekranu
+
