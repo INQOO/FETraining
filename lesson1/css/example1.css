@@ -1,0 +1,88 @@
+body {
+  background-color: aqua;
+  color: red;
+  /*animation: .5s linear 1s infinite alternate example;*/
+}
+
+body {
+  color: black;
+}
+
+
+
+
+/*!* # swiadczy o odwolaniu do id*!*/
+/*#homePage {*/
+/*  color: red;*/
+/*}*/
+@keyframes example {
+  from {
+    width: 0;
+    height: 0;
+  }
+  to {
+    width: 500px;
+    height: 500px;
+  }
+}
+
+#htmlLogo {
+  border: 5px dashed red;
+  padding: 20px;
+float: right;
+  height: 100px;
+  /*margin: 0px 100px;*/
+
+  /*animation: .5s linear 1s infinite alternate example;*/
+}
+#column1{
+  margin: 10px;
+  width:40%;
+  float: left;
+}
+#column2{
+  margin: 10px;
+  width:40%;
+  float: left;
+}
+/*!* odwolanie do wszystkich elementow a *!*/
+/*a {*/
+/*  padding: 5px;*/
+/*}*/
+
+/*!* odwolanie do klasy formButton *!*/
+/*.formButton {*/
+/*  !* sklada zależna od wielkości czcionki *!*/
+/*  width: 10em;*/
+/*  background-color: grey;*/
+/*  border-radius: 30px;*/
+/*}*/
+
+/*body {*/
+/*  background-color: azure;*/
+/*  color: grey;*/
+/*  border: 1px solid red;*/
+/*}*/
+
+nav {
+  display: flex;
+  padding: 20px;
+  border: medium dashed green;
+}
+nav > a {
+  flex: 1 1 auto;
+  color: black;
+}
+/*article {*/
+/*  !* zalezne od wielkości rodzica *!*/
+/*  width: 100%;*/
+/*  padding: 30px 0px;*/
+/*}*/
+
+/*footer {*/
+/*  margin-top: 20px;*/
+/*  padding: 10px;*/
+/*  border: medium solid darkred;*/
+/*}*/
+
+

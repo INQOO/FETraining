@@ -1,0 +1,27 @@
+Stwórz spinner z użyciem mechanizmu promise który będzie wyświetlał się przez 5 sekund
+po kliknięciu na zapis nowego przepisu
+
+css do użycia w zadaniu:
+
+.loader {
+  display: none;
+  width : 80px;
+  height: 80px;
+  border: 16px solid white;
+  border-top:16px solid #BADA55;
+  border-radius: 50%;
+}
+
+.spin {
+  display: block;
+  animation: spinner 1.5s linear infinite;
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

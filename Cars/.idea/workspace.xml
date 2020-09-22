@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b39c6c87-fc36-490b-96fd-bcf84a35387a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/js/example2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/js/receptures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/example2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/example2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/js/advArrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/js/advArrays.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/js/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/js/dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/js/example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/js/example1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/js/observables.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/js/observables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/js/xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/js/xhr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../veu-test/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../veu-test/src/components/HelloWorld.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hlVErMTdfCI0wKhZqJUIbpJbi2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b39c6c87-fc36-490b-96fd-bcf84a35387a" name="Default Changelist" comment="" />
+      <created>1600585556168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600585556168</updated>
+      <workItem from="1600585558588" duration="13849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="240" key="GridCell.Tab.0.bottom" timestamp="1600632163564">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1899" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600632163564" />
+    <state width="1899" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600592797018" />
+    <state width="1899" height="240" key="GridCell.Tab.0.center" timestamp="1600632163562">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1899" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600632163562" />
+    <state width="1899" height="240" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600592797017" />
+    <state width="1899" height="240" key="GridCell.Tab.0.left" timestamp="1600632163561">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1899" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600632163561" />
+    <state width="1899" height="240" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600592797016" />
+    <state width="1899" height="240" key="GridCell.Tab.0.right" timestamp="1600632163563">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1899" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600632163563" />
+    <state width="1899" height="240" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600592797017" />
+  </component>
+</project>

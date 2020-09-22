@@ -1,0 +1,49 @@
+/* atrybut float pozwala tekstowi oplywac logo*/
+#htmlLogo {
+  float: left;
+  margin: 20px;
+}
+
+body {
+  margin: 0;
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+  height: 3em;
+
+}
+
+main {
+  padding: 6em;
+  overflow: hidden;
+}
+/*za pomocą wlasciwosci float mozemy zaprojektowac kolumnowy layout strony*/
+#column1 {
+  float: left;
+  width: 70%;
+}
+
+#column2 {
+  float: right;
+  width: 20%;
+}
+footer{
+  position:relative;
+  bottom: 0px;
+}
+#mainContainer{
+  min-height: 100vh;
+}
+
+#testH2 ~ p{
+  background-color: red;
+}
+
+#testH2:hover{
+  color:yellow;
+}
+li:nth-child(2n) {
+  color: lime;
+}

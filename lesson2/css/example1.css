@@ -1,0 +1,35 @@
+/* # swiadczy o odwolaniu do id*/
+#homePage {
+  color: red;
+}
+#htmlLogo{
+  width: 200px
+}
+/* odwolanie do wszystkich elementow a */
+a {
+  padding: 5px;
+}
+
+body{
+  background-color: azure;
+  margin: 0px;
+}
+nav{
+  padding: 20px;
+  border: medium dashed green;
+}
+article{
+  padding: 30px 0px;
+}
+
+footer{
+  margin-top: 20px;
+  padding: 10px;
+  border: medium solid darkred;
+}
+/* odwolanie do klasy formButton */
+.formButton{
+  width: 10em;
+  background-color: grey;
+  border-radius: 30px;
+}

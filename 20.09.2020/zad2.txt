@@ -1,0 +1,8 @@
+1. Stwórz formularz do zakładania konta oraz logowania używając jquery
+2. niech w formularzu znajdują się pola imie, nazwisko, email, haslo, data urodzenia i dane z niego niech zapisują się do localstorage
+3. dodaj możliwość logowania która będzie sprawdzać w localstorage czy dana para user/pass istnieje i wyswietlac komunikat o poprawnym logowaniu
+4. stwórz aplikację lista zakupów. Niech pozwala na tworzenie list zakupów które składają się z kolejych wpisów oraz nazwy listy.
+5. listy powinny rozwijac się po naciśnięciu
+6. stwórz wyszukiwarkę list
+7. niech tylko zalogowany użytkownik ma możliwość tworzyć listę i listy które stworzy będą przypisane do niego.
+8. W swoim projekcie zastosuj dobre praktyki programowania o których mówiliśmy.

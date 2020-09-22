@@ -1,0 +1,3 @@
+stwórz funkcję która przemapuje każdy przepis by jego nazwa byla napisana dużymi literami (funkcja toUpperCase())
+stwórz tablicę potrzebnych składników do wszystkich przepisów używając reduce
+stwórz funkcję która odfiltruje wszystkie przepisy mające więcej niż 3 kroki przygotowania

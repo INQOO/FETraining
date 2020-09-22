@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>HTML i CSS</title>
+  <!--  odkomentowac do cwiczenia 1 css-->
+  <link href="/css/example1.css" rel="stylesheet">
+
+  <!--  odkomentowac do cwiczenia 2 css-->
+  <link href="/css/example2.css" rel="stylesheet">
+
+</head>
+
+<body style="background-color: azure">
+
+<div id="mainContainer">
+  <header>
+    <nav>
+      <a href="" id="homePage">home</a>
+      <a href="" id="aboutPage">about</a>
+      <a href="" id="contactPage">contact</a>
+    </nav>
+  </header>
+  <main>
+    <section id="column1">
+      <img id="htmlLogo" src="img/HTML5_logo.png">
+
+      <article class="mainPage" id="firstPost">
+        <h2 id="testH2">bla bla bla</h2>
+        <p>test</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet blanditiis doloremque eum facilis illum iure
+          molestias, nemo neque nulla reprehenderit! Animi consequatur, cum esse maiores officia repudiandae similique
+          sint
+          tempore vitae? Ab amet consequuntur dicta dignissimos ex expedita explicabo facilis fugit maiores nostrum
+          optio
+          possimus, quae quaerat quibusdam quo repudiandae, saepe ut velit! Blanditiis corporis cum dolorem eaque,
+          eligendi,
+          labore, laboriosam non quaerat quis quisquam repudiandae veritatis vitae voluptatem. Aliquam debitis eaque eos
+          tempora ullam! Accusantium explicabo fugiat harum ipsam perferendis provident quod suscipit! Accusamus aliquid
+          deserunt doloremque eius facilis minus molestiae possimus quisquam! Accusamus accusantium aperiam consequuntur .</p>
+      </article>
+    </section>
+    <section id="column2">
+      <article class="mainPage" id="secondPost">
+        <h2>bla bla bla</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet blanditiis doloremque eum facilis illum iure
+          molestias, nemo neque nulla reprehenderit! Animi consequatur, cum esse maiores officia repudiandae similique
+          sint
+          tempore vitae? Ab amet consequuntur dicta dignissimos ex expedita explicabo facilis fugit maiores nostrum
+          optio
+          possimus, quae quaerat quibusdam quo repudiandae, saepe ut velit! Blanditiis corporis cum dolorem eaque,
+          eligendi,
+          labore, laboriosam non quaerat quis quisquam repudiandae veritatis vitae voluptatem. Aliquam debitis eaque eos
+          exercitationem laudantium odio, quos sequi tempora ullam vero. A aliquam autem, commodi distinctio doloremque
+          est,
+          fuga id nemo nihil nobis non obcaecati omnis recusandae suscipit totam. Quis.</p>
+      </article>
+      <article>
+        <h2>bla bla bla</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet blanditiis doloremque eum facilis illum iure
+          molestias, nemo neque nulla reprehenderit! Animi consequatur, cum esse maiores officia repudiandae similique
+          sint
+          tempore vitae? Ab amet consequuntur dicta dignissimos ex expedita explicabo facilis fugit maiores nostrum
+          optio
+          possimus, quae quaerat quibusdam quo repudiandae, saepe ut velit! Blanditiis corporis cum dolorem eaque,
+          eligendi,
+          labore, laboriosam non quaerat quis quisquam repudiandae veritatis vitae voluptatem. Aliquam debitis eaque eos
+          exercitationem laudantium odio, quos sequi tempora ullam vero. A aliquam autem, commodi distinctio doloremque
+          est,
+          fuga id nemo nihil nobis non obcaecati omnis recusandae suscipit totam. Quis.</p>
+        <ul class="testList">
+          <li>test1</li>
+          <li>test2</li>
+          <li>test3</li>
+          <li>test4</li>
+        </ul>
+      </article>
+    </section>
+
+  </main>
+
+  <!--po dodanie obslugi w javascripcie umozliwi nam wysylanie danych do backendu-->
+  <form>
+    <div>
+      <!--  inputy sa walidowane przez przegladarke po wcisnieciu guzika submit-->
+      <input id="userEmail" type="email">
+      <label for="userEmail"> user email</label>
+      <input type="password">
+      <label for="userEmail"> user password</label>
+      <!--atrybuty rows i cols okreslaja rozmiar textfielda-->
+      <div>
+        <textarea cols="50" id="longer" rows="4"></textarea>
+        <label for="longer">tu mozna wpisac dlugi tekst</label>
+      </div>
+
+
+      <button class="formButton" type="submit">wyslij</button>
+      <button class="formButton" type="reset">reset</button>
+    </div>
+  </form>
+</div>
+<footer>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, excepturi.</p>
+</footer>
+</body>
+
+</html>

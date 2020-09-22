@@ -1,0 +1,8 @@
+Stwórz w lewym górnym rogu strony licznik jak długo użytkownik przebywał na stronie. Niech liczba ta zapisuje się do localstorage by przy każdym odwiedzeniu strony dodawała się do poprzedniego czasu.
+
+
+Stwórz licznik czasu nieaktywności który będzie resetowany przez kliknięcie w dowolne miejsce na stronie.
+Jeśli użytkownik jest nieaktywny dłużej niż minutę niech otrzyma komunikat ze za minutę zostanie wylogowany
+Jeśli przez kolejna minutę nic nie zrobić powinien wyświetlić się komunikat w console log o wylogowaniu
+
+Sprobuj napisać funkcje która wyświetli alert jeśli użytkownik w przeciągu sekundy kliknie 3x button

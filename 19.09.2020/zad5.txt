@@ -1,0 +1,2 @@
+Zmien algorytm ze spinnerem na observable.
+Stwórz w lewym górnym rogu strony licznik jak długo użytkownik przebywał na stronie. Niech liczba ta zapisuje się do localstorage by przy każdym odwiedzeniu strony dodawała się do poprzedniego czasu.

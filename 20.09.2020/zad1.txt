@@ -1,0 +1,5 @@
+0. stworzyć nowy plik js i podlinkować go w carDetails
+1. wczytać parametr id z url
+2. pobrać wszystkie samochody 
+3. przejść dom samochodu o odpowiednim id
+4. wyświetlić go

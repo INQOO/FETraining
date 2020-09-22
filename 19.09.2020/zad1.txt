@@ -2,3 +2,10 @@ Stwórz funkcje która sprawdza czy w localstorage jest zmienna licznik odwiedzi
 W wypadku gdy zmienna już się znajduje w localstorage wyświetl tekst witaj po raz x na naszej stronie oraz zinkrementuj zmienna.
 Teksty wyświetl w nowym oknie wypozycjonowanym na środku ekranu
 
+
+1. Tworzymy zmienna do której przypisujemy obecną wartość klucza 'counter' z localStorage
+2. Tworzymy instrukcje warunkową która sprawdza czy zmienna istnieje
+3. jeśli tak to inkrementujemy ja i zapisujemy do localsgtorage
+4. jeśli nie to tworzymy ja nadając wartość 1 i zapisujemy do localsgtorage
+
+5 odświeżamy stronę by sprawdzić działanie
